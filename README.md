@@ -20,6 +20,8 @@ We approach this project in 2 phases:
 
 Goal of this project is to predict individuals who are most likely to become customers for a mail-order sales company in Germany.
 
+Detailed overview of the project is available at the blogpost: https://medium.com/@suhailna/customer-segmentation-report-for-arvato-financial-solutions-c3b2814b7178
+
 ### Data Description:
 The data has been provided by Udacity and Arvato Financial Solutions. The dataset contains 4 data files and 2 description files. The description files have information about the features and their explanation. The 4 data files include:
 
